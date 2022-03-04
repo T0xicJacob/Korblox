@@ -1,0 +1,8 @@
+local ply = game.Players.LocalPlayer
+        local chr = ply.Character
+        chr.RightLowerLeg.MeshId = 902942093
+        chr.RightLowerLeg.Transparency = 1
+        chr.RightUpperLeg.MeshId = httpwww.roblox.comassetid=902942096
+        chr.RightUpperLeg.TextureID = httproblox.comassetid=902843398
+        chr.RightFoot.MeshId = 902942089
+        chr.RightFoot.Transparency = 1
